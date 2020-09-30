@@ -2,5 +2,6 @@
 
 int main()
 {
-    std::cout << "2+2*2 = " << 2 + 2 * 2 << "\n";
+    setlocale(LC_ALL, "Russian");
+    std::cout << "Результат выражения 2 + 2 * 2 = " << 2 + 2 * 2 << "\n";
 }
