@@ -1,5 +1,2 @@
 ﻿  zadanie 6.cpp
-C:\Users\BORGER\Desktop\Programming\Practice\06\C++\zadanie 6\zadanie 6\zadanie 6.cpp(21,17): warning C4566: символ, представленный универсальным именем символа "\uFF3C", невозможно представить в текущей кодовой странице (1251)
-C:\Users\BORGER\Desktop\Programming\Practice\06\C++\zadanie 6\zadanie 6\zadanie 6.cpp(21,17): warning C4566: символ, представленный универсальным именем символа "\u00BA", невозможно представить в текущей кодовой странице (1251)
-C:\Users\BORGER\Desktop\Programming\Practice\06\C++\zadanie 6\zadanie 6\zadanie 6.cpp(21,17): warning C4566: символ, представленный универсальным именем символа "\u25A1", невозможно представить в текущей кодовой странице (1251)
   zadanie 6.vcxproj -> C:\Users\BORGER\Desktop\Programming\Practice\06\C++\zadanie 6\Debug\zadanie 6.exe
