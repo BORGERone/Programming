@@ -6,8 +6,9 @@ int main()
     setlocale(LC_ALL, "Russian");
     double a;
     double b;
+    double c;
 
-    cout << "Введите значение a: ";
+        cout << "Введите значение a: ";
     cin >> a;
     cout << "Введите значение b: ";
     cin >> b;
@@ -16,7 +17,11 @@ int main()
 
         cout << "a = " << a << endl;
         cout << "b = " << b << endl;
-    (a, b = b, a);
+    
+
+        (c = a);
+        (a = b);
+        (b = c);
         cout << "a = " << a << endl;
         cout << "b = " << b << endl;
 }
