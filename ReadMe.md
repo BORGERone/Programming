@@ -15,9 +15,9 @@
 | Практическая 7 - [[C++]](https://github.com/BORGERone/Programming/blob/master/Practice/07/C%2B%2B/zadanie%206c/zadanie%206c/zadanie%206c.cpp) [[Python]](https://github.com/BORGERone/Programming/blob/master/Practice/07/Python/zadanie%207py/zadanie%207py/zadanie_7py.py) | ------------ |
 | Практическая 8 - [[C++]](https://github.com/BORGERone/Programming/blob/master/Practice/08/C%2B%2B/zadanie%208/zadanie%208/zadanie%208.cpp) [[Python]]() | ------------ |
 | Практическая 9 - [[C++]](https://github.com/BORGERone/Programming/blob/master/Practice/08/C%2B%2B/zadanie%208/zadanie%208/zadanie%208.cpp) [[Python]](https://github.com/BORGERone/Programming/blob/master/Practice/08/Python/Zadanie%208.py) | ------------ |
-| Практическая 10 - [[C++]]() [[Python]](https://github.com/BORGERone/Programming/blob/master/Practice/10/C%2B%2B/zadanie%2010/zadanie%2010/zadanie%2010.cpp) | ------------ |
-| Практическая 11 - [[C++]]() [[Python]]() | ------------ |
-| Практическая 12 - [[C++]]() [[Python]]() | ------------ |
-| Практическая 13 - [[C++]]() [[Python]]() | ------------ |
-| Практическая 14 - [[C++]]() [[Python]]() | ------------ |
-| Практическая 15 - [[C++]]() [[Python]]() | ------------ |
+| Практическая 10 - [[C++]]() [[Python]]() | ------------ |
+| Практическая 11 - [[C++]](https://github.com/BORGERone/Programming/blob/master/Practice/11/C%2B%2B/zadanie%2011/zadanie%2012/zadanie%2012.cpp) [[Python]](https://github.com/BORGERone/Programming/blob/master/Practice/11/Python/zadanie%2011/zadanie%2011/zadanie_11.py) | ------------ |
+| Практическая 12 - [[C++]](https://github.com/BORGERone/Programming/blob/master/Practice/12/C%2B%2B/zadanie%2012c/zadanie%2012c/zadanie%2012c.cpp) [[Python]](https://github.com/BORGERone/Programming/blob/master/Practice/12/Python/zadanie%2012.py) | ------------ |
+| Практическая 13 - [[C++]](https://github.com/BORGERone/Programming/blob/master/Practice/13/C%2B%2B/zadanie%2013/zadanie%2013/zadanie%2013.cpp) [[Python]](https://github.com/BORGERone/Programming/blob/master/Practice/13/Python/zadanie%2013p/zadanie%2013p/zadanie_13p.py) | ------------ |
+| Практическая 14 - [[C++]](https://github.com/BORGERone/Programming/blob/master/Practice/14/C%2B%2B/zadanie%2014/zadanie%2014/zadanie%2014.cpp) [[Python]](https://github.com/BORGERone/Programming/blob/master/Practice/14/Python/zadanie%2014p/zadanie%2014p/zadanie_14p.py) | ------------ |
+| Практическая 15 - [[C++]](https://github.com/BORGERone/Programming/blob/master/Practice/15/C%2B%2B/zadanie%2015c/zadanie%2015c/zadanie%2015c.cpp) [[Python]](https://github.com/BORGERone/Programming/blob/master/Practice/15/Python/zadanie%2015py/zadanie%2015py/zadanie_15py.py) | ------------ |
