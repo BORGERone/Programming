@@ -6,7 +6,7 @@
 
 | Практические | Лабораторные |
 | ------------ | ------------ |
-| Практическая 1 - [[C++]]() [[Python]]() | ------------ |
+| Практическая 1 - [[C++]](https://github.com/BORGERone/Programming/blob/master/Practice/01/C%2B%2B/zadanie%201/zadanie%201/zadanie%201.cpp) [[Python]](https://github.com/BORGERone/Programming/blob/master/Practice/01/Python/zadanie%201.py) | ------------ |
 | Практическая 2 - [[C++]]() [[Python]]() | ------------ |
 | Практическая 3 - [[C++]]() [[Python]]() | ------------ |
 | Практическая 4 - [[C++]]() [[Python]]() | ------------ |
