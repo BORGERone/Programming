@@ -1,2 +1,6 @@
 ﻿  zadanie 10.cpp
+C:\Users\BORGER\Desktop\Programming\Practice\10\C++\zadanie 10\zadanie 10\zadanie 10.cpp(13,12): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\BORGER\Desktop\Programming\Practice\10\C++\zadanie 10\zadanie 10\zadanie 10.cpp(19,14): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\BORGER\Desktop\Programming\Practice\10\C++\zadanie 10\zadanie 10\zadanie 10.cpp(29,20): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\BORGER\Desktop\Programming\Practice\10\C++\zadanie 10\zadanie 10\zadanie 10.cpp(44,20): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
   zadanie 10.vcxproj -> C:\Users\BORGER\Desktop\Programming\Practice\10\C++\zadanie 10\Debug\zadanie 10.exe
