@@ -1,8 +1,0 @@
-﻿  zadanie 25.cpp
-C:\Users\BORGER\Desktop\Programming\Practice\25\C++\zadanie 25\zadanie 25\zadanie 25.cpp(27,13): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
-          with
-          [
-              _Ty=int
-          ]
-C:\Users\BORGER\Desktop\Programming\Practice\25\C++\zadanie 25\zadanie 25\zadanie 25.cpp(30,21): warning C4018: <: несоответствие типов со знаком и без знака
-  zadanie 25.vcxproj -> C:\Users\BORGER\Desktop\Programming\Practice\25\C++\zadanie 25\Debug\zadanie 25.exe
